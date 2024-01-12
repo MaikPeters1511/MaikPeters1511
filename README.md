@@ -25,7 +25,3 @@ Ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, mei
 ## Meine Projekte
 
 - [[SimpleMVVMApp]](https://github.com/MaikPeters1511/SimpleMvvmApp): Ein Desktop-Programm mit MVVM Pattern
-
-## Kontakt
-
-- [[Dein LinkedIn-Profil]](https://www.linkedin.com/in/maik-peters-095195167/)https://www.linkedin.com/in/maik-peters-095195167/
