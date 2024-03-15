@@ -6,7 +6,7 @@
 - Lieblingsprogrammiersprache: C#
 
 ## Aktuell arbeite ich an
-[https://github.com/MaikPeters1511/Blutdruck](https://github.com/MaikPeters1511/BloodPressureApp) : Meine BlazorAPP in Works
+[https://github.com/MaikPeters1511/BloodPressureApp](https://github.com/MaikPeters1511/BloodPressureApp) : Meine BlazorAPP in Works
 
 ## Über meine Arbeit
 
