@@ -6,11 +6,11 @@
 - Lieblingsprogrammiersprache: C#
 
 ## Aktuell arbeite ich an
-https://github.com/MaikPeters1511/BloodPressure : Meine BlazorAPP in Works
+https://github.com/MaikPeters1511/Aktuelles : Aktuelles Projekt in Works
 
 ## Über meine Arbeit
 
-Ich bin ein Softwareentwickler mit 1 Jahren Erfahrung. In meiner Freizeit sowie Umschulung habe ich an einer Vielzahl von Projekten gearbeitet.
+Ich bin ein Softwareentwickler mit 1,5 Jahren Erfahrung. In meiner Freizeit sowie Umschulung habe ich an einer Vielzahl von Projekten gearbeitet.
 
 Ich bin ein C#-Entwickler und habe umfangreiche Kenntnisse in den Bereichen .Net. Ich bin auch ein guter Teamplayer.
 
@@ -20,8 +20,8 @@ Ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, mei
 
 ## Meine Fähigkeiten
 
-- Programmiersprachen: C#, JavaScript
-- Frameworks: .NET, React
+- Programmiersprachen: C#, JavaScript, TypeScript
+- Frameworks: .NET, Angular 21
 - Tools: Visual Studio, JetBrains IDE, Git, GitHub
 - Cloud Computing: Azure ein wenig
 
