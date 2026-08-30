@@ -1,12 +1,12 @@
 ## Über mich
 
 - Name: Maiki
-- Alter: 46
+- Alter: 48
 - Wohnort: Berlin, Deutschland
 - Lieblingsprogrammiersprache: C#
 
 ## Aktuell arbeite ich an
-[https://github.com/MaikPeters1511/Handwerker](https://github.com/MaikPeters1511/Handwerker) : Aktuelles Projekt in Works
+[Verapass](https://github.com/MaikPeters1511/VeraPass) : Aktuelles Projekt in Works
 
 ## Über meine Arbeit
 
@@ -21,10 +21,11 @@ Ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, mei
 ## Meine Fähigkeiten
 
 - Programmiersprachen: C#, JavaScript, TypeScript
-- Frameworks: .NET, Angular 21
+- Frameworks: .NET, Angular 22
 - Tools: Visual Studio, JetBrains IDE, Git, GitHub
 - Cloud Computing: Azure ein wenig
 
 ## Meine Projekte
 
 - [[SimpleMVVMApp]](https://github.com/MaikPeters1511/SimpleMvvmApp): Ein Desktop-Programm mit MVVM Pattern
+- [Verapass](https://github.com/MaikPeters1511/VeraPass) : Aktuelles Projekt
