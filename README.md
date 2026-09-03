@@ -7,6 +7,7 @@
 
 ## Aktuell arbeite ich an
 [Verapass](https://github.com/MaikPeters1511/VeraPass) : Aktuelles Projekt in Works
+[AI Coding Team für Claude Code]([https://github.com/MaikPeters1511/AI-Team])
 
 ## Über meine Arbeit
 
@@ -29,3 +30,4 @@ Ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, mei
 
 - [[SimpleMVVMApp]](https://github.com/MaikPeters1511/SimpleMvvmApp): Ein Desktop-Programm mit MVVM Pattern
 - [Verapass](https://github.com/MaikPeters1511/VeraPass) : Aktuelles Projekt
+- [AI Coding Team für Claude Code]([https://github.com/MaikPeters1511/AI-Team])
